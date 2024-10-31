@@ -27,6 +27,8 @@ public without sharing class qsyd_ContentDocumentTriggerHandler extends TriggerH
     private List<ContentDocument> contentDocumentNewList;
     private Map<Id, ContentDocument> contentDocumentNewMap;
 
+    //private static qsyd_FileExplorerCommon common = new qsyd_FileExplorerCommon();
+
     private SObjectAccessDecision accessDecision;
 
     /**

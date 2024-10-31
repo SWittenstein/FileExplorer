@@ -3,6 +3,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <identifier>c_detailPanel</identifier>
                 <componentName>force:detailPanel</componentName>
             </componentInstance>
         </itemInstances>
@@ -20,6 +21,7 @@
                     <name>title</name>
                     <value>File Explorer</value>
                 </componentInstanceProperties>
+                <identifier>c_qsydFileExplorer</identifier>
                 <componentName>qsydFileExplorer</componentName>
             </componentInstance>
         </itemInstances>
@@ -41,6 +43,7 @@
                     <name>title</name>
                     <value>Standard.Tab.detail</value>
                 </componentInstanceProperties>
+                <identifier>c_detailTabContent</identifier>
                 <componentName>flexipage:tab</componentName>
             </componentInstance>
         </itemInstances>
@@ -58,6 +61,7 @@
                     <name>title</name>
                     <value>Template Builder</value>
                 </componentInstanceProperties>
+                <identifier>c_relatedTabContent</identifier>
                 <componentName>flexipage:tab</componentName>
             </componentInstance>
         </itemInstances>
@@ -86,6 +90,7 @@
                     <name>numVisibleActions</name>
                     <value>3</value>
                 </componentInstanceProperties>
+                <identifier>c_highlightsPanel</identifier>
                 <componentName>force:highlightsPanel</componentName>
             </componentInstance>
         </itemInstances>
@@ -95,6 +100,7 @@
                     <name>tabs</name>
                     <value>maintabs</value>
                 </componentInstanceProperties>
+                <identifier>c_tabset</identifier>
                 <componentName>flexipage:tabset</componentName>
             </componentInstance>
         </itemInstances>
